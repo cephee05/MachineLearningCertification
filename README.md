@@ -1,2 +1,1 @@
-# MachineLearningCertification
-Ce dépôt contient les projets que j’ai réalisé dans le cadre de la certification freeCodeCamp. Chaque dossier correspond à un projet validé.
+This repository contains the projects I completed as part of my freeCodeCamp certification. Each folder represents a validated project.
